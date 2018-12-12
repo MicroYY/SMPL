@@ -1,0 +1,4 @@
+models/basicModel_f_lbs_10_207_0_v1.0.0.pkl
+models/basicmodel_m_lbs_10_207_0_v1.0.0.pkl
+*.pkl
+*.obj
